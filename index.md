@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的GitHub上的第一个测试页面
 
+可以通过下面这个链接进行编辑这个网页内容。
 You can use the [editor on GitHub](https://github.com/wuweijun/mypage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -25,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+更多有关Mardwon的细节可以点击
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
